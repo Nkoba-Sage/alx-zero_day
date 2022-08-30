@@ -1,2 +1,1 @@
-My repo
-Don't leave it empty
+My repo is not supposed to be left blank
