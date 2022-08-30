@@ -1,2 +1,3 @@
-#!/bin/
-I have to put you something
+$ git add up_to_date
+$ git pull
+
