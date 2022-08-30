@@ -1,3 +1,2 @@
-#!/bin/
-I have to put you something
-Would you like me to put you something again?
+$ git add up_to_date
+$ git pull
