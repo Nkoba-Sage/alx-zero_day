@@ -1,2 +1,5 @@
 $ git add up_to_date
 $ git pull
+># up_to_date branch -b
+> # (fix conflicts and run "git add")
+git commit -a
